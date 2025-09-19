@@ -35,7 +35,7 @@ Informatics Engineering graduate from STMIK Pontianak specializing in web full-s
 ## 📈 GitHub Stats
 
 ![WageFolabessy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WageFolabessy&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/WageFolabessy/snk/refs/heads/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Let’s Connect!
@@ -47,5 +47,3 @@ Informatics Engineering graduate from STMIK Pontianak specializing in web full-s
 ---
 
 Thank you for stopping by! 🚀
-
-![github contribution grid snake animation] (https://raw.githubusercontent.com/WageFolabessy/snk/refs/heads/output/github-contribution-grid-snake.svg)
