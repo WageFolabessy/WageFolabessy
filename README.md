@@ -47,3 +47,5 @@ Informatics Engineering graduate from STMIK Pontianak specializing in web full-s
 ---
 
 Thank you for stopping by! 🚀
+
+![github contribution grid snake animation] (https://raw.githubusercontent.com/WageFolabessy/snk/refs/heads/output/github-contribution-grid-snake.svg)
